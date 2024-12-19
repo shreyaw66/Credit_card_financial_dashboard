@@ -4,8 +4,8 @@ The primary objective of this project is to develop a robust Credit Card Transac
 Key Features:
 Transaction Parsing: Import and parse credit card transaction data from CSV file.
 Summary Reports: Generate detailed reports summarizing total expenditures, balances, and categories over specified time periods (weekly, monthly, yearly).
-Expense Visualization: Display visual insights via charts and graphs (e.g., pie charts, bar graphs) for easy understanding of spending patterns.
-Data Export: Allow users to export the report in various formats like PDF, Excel, or CSV for further analysis or sharing.
+Expense Visualization: Display visual insights via charts and graphs for easy understanding of spending patterns.
+Data Export: Allow users to export the report in various formats like PDF, Excel for further analysis or sharing.
 
 Technical Stack:
 Backend: SQL (Microsoft SQL Server)
